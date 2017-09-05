@@ -10,3 +10,21 @@ ext/
 modern.json
 modern.jsonp
 resources/sass/.sass-cache/
+
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
+Будет удалено .idea/
+Будет удалено README.md
+Будет удалено index.html
+Будет удалено node_modules/
+Будет удалено package.json
+Будет удалено src/
+Будет удалено style/
+Будет удалено test/
+Будет удалено webpack.config.js
